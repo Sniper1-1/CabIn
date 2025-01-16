@@ -1,4 +1,11 @@
+---
 
+**<details><summary>Version 0.1.2</summary>**
+
+ - Tweaked a furniture thing.
+ 
+ </details>
+ 
 ---
 
 **<details><summary>Version 0.1.1</summary>**
