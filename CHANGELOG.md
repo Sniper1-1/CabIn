@@ -1,3 +1,12 @@
+
+---
+
+**<details><summary>Version 0.1.3</summary>**
+
+ - Lighting tweaks.
+ 
+ </details>
+ 
 ---
 
 **<details><summary>Version 0.1.2</summary>**
