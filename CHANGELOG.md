@@ -1,6 +1,14 @@
 
 ---
 
+**<details><summary>Version 0.1.4</summary>**
+
+ - Maybe fixed an odd scrap spawn.
+ 
+ </details>
+ 
+---
+
 **<details><summary>Version 0.1.3</summary>**
 
  - Lighting tweaks.
