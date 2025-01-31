@@ -1,6 +1,15 @@
 
 ---
 
+**<details><summary>Version 0.1.5</summary>**
+
+ - Maybe fixed inverse teleporting into collapsed room pit.
+ - Some more furniture.
+ 
+ </details>
+
+---
+
 **<details><summary>Version 0.1.4</summary>**
 
  - Maybe fixed an odd scrap spawn.
