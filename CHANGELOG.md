@@ -1,6 +1,16 @@
 
 ---
 
+**<details><summary>Version 0.1.6</summary>**
+
+ - Maybe fixed an odd scrap spawn.
+ - Made start room special doorframe only spawn if there's actually a door.
+ - Bit the bullet and cut off the backside of the logs on the wall pieces. In theory this reduces the texture fighting issue.
+ 
+ </details>
+
+---
+
 **<details><summary>Version 0.1.5</summary>**
 
  - Maybe fixed inverse teleporting into collapsed room pit.
