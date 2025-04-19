@@ -1,6 +1,15 @@
 
 ---
 
+**<details><summary>Version 0.1.7</summary>**
+
+ - Centered fake sun light
+ - Fixed a slightly visible hole on the hallway frames at certain intersections
+ 
+ </details>
+
+---
+
 **<details><summary>Version 0.1.6</summary>**
 
  - Maybe fixed an odd scrap spawn.
