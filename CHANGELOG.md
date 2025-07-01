@@ -5,6 +5,7 @@
 
  - Added microwave to kitchen.
  - Added an "apparatus".
+ - Changed cardboard box mesh.
  
  </details>
 
