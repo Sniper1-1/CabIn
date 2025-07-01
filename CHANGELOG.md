@@ -1,10 +1,19 @@
 
 ---
 
+**<details><summary>Version 0.2.0</summary>**
+
+ - Added microwave to kitchen.
+ - Added an "apparatus".
+ 
+ </details>
+
+---
+
 **<details><summary>Version 0.1.7</summary>**
 
- - Centered fake sun light
- - Fixed a slightly visible hole on the hallway frames at certain intersections
+ - Centered fake sun light.
+ - Fixed a slightly visible hole on the hallway frames at certain intersections.
  
  </details>
 
