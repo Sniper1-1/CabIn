@@ -1,6 +1,15 @@
 
 ---
 
+**<details><summary>Version 0.2.1</summary>**
+
+ - Added interior radar map.
+ - Added vanilla mansion paintings to potential wall paintings.
+ 
+ </details>
+
+---
+
 **<details><summary>Version 0.2.0</summary>**
 
  - Added microwave to kitchen.
