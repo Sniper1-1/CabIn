@@ -1,6 +1,14 @@
 
 ---
 
+**<details><summary>Version 0.2.2</summary>**
+
+ - Fixed items spawning under tables in the gallery room (which I also renamed from the misspelled "galery").
+ 
+ </details>
+
+---
+
 **<details><summary>Version 0.2.1</summary>**
 
  - Added interior radar map.
