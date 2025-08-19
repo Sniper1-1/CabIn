@@ -1,10 +1,11 @@
 {
 	"name":"CabIn",
-	"version_number": "0.2.2",
+	"version_number": "0.2.3",
 	"website_url":"https://github.com/Sniper1-1/CabIn.git",
 	"description":"Adds a cabin themed interior to Lethal Company.",
 	"dependencies":[
 		"IAmBatby-LethalLevelLoader-1.4.11",
-		"JacobG5-JLL-1.9.8"
+		"JacobG5-JLL-1.9.8",
+		"pacoito-itolib-0.3.2"
 	]
 }

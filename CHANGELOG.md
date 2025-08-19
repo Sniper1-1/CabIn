@@ -1,6 +1,14 @@
 
 ---
 
+**<details><summary>Version 0.2.3</summary>**
+
+ - Squawk (can now squawk the "apparatus" thanks to [itolib](https://thunderstore.io/c/lethal-company/p/pacoito/itolib/) + fixed the scan node not showing ??? and any in the ship resetting to "on" when reloading save).
+ 
+ </details>
+
+---
+
 **<details><summary>Version 0.2.2</summary>**
 
  - Fixed items spawning under tables in the gallery room (which I also renamed from the misspelled "galery").
