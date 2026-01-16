@@ -17,9 +17,23 @@ Adds a cabin themed interior to Lethal Company. ([Discord link](https://discord.
 
 </details>
 
+<details>
+<summary>For moon developers</summary>
+
+If you would like CabIn to spawn on your moon, you may tag it with one of the following tags to set its respective spawn weight:
+- HasCabin10
+- HasCabin25
+- HasCabin50
+- HasCabin75
+- HasCabin100
+- HasCabin200
+- HasCabin300
+
+</details>
 
 ## Credits
 
+- Zeekerss for developing the game.
 - The developers of this mod's dependencies as it literally could not exist without them.
 - [Audio Knight](https://www.youtube.com/@knightofaudio) on YouTube for a handy starting tutorial.
 - [Nomnomab's project patcher](https://github.com/nomnomab/lc-project-patcher) to access vanilla LC through Unity.
