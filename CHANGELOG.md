@@ -9,6 +9,7 @@
  - Decor tweaks.
  - Updated dependencies list.
  - Updated credits.
+ - Increased generation speed. (Done by making a lot of ProBuilder meshes into normal meshes.)
  
  </details>
 
