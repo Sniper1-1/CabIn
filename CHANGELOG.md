@@ -7,6 +7,8 @@
  - Added spawn weights for certain tags so that moon devs can have some control over its spawn from their end. Inspired by [Generic's](https://thunderstore.io/c/lethal-company/p/Generic_GMD/) system for their interiors (see README for values).
  - Two new tiles.
  - Decor tweaks.
+ - Updated dependencies list.
+ - Updated credits.
  
  </details>
 
