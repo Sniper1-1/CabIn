@@ -1,6 +1,15 @@
 
 ---
 
+**<details><summary>Version 1.0.1</summary>**
+
+ - Updated for V81.
+ - Some new furniture stuff I think?
+
+</details>
+
+---
+
 **<details><summary>Version 1.0.0</summary>**
 
  - Added spawn weight of 300 to the moon Vigilance.
