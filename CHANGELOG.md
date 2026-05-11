@@ -1,6 +1,16 @@
 
 ---
 
+**<details><summary>Version 1.0.2</summary>**
+
+ - VR support (Apparently this is something we have to do. I don't have the hardware to test).
+ - Added new entities to gallery room.
+ - Added a special day-based decoration change in a room.
+
+</details>
+
+---
+
 **<details><summary>Version 1.0.1</summary>**
 
  - Updated for V81.
