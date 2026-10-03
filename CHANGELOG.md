@@ -1,6 +1,15 @@
 
 ---
 
+**<details><summary>Version 1.1.0</summary>**
+
+ - Courtyard now uses glass doors and has an audio reverb change.
+ - Reduced file size from 81 mb -> 29 mb
+
+</details>
+
+---
+
 **<details><summary>Version 1.0.3</summary>**
 
  - Added new painting pictures.
